@@ -2,13 +2,13 @@
 
 [![Build Status](https://travis-ci.org/colajam93/libshellscript.svg?branch=master)](https://travis-ci.org/colajam93/libshellscript)
 
-Miscellaneous bash library
+Miscellaneous shell script library supports Bash and Zsh
 
-## Tested platform
+## Tested OS
 
 - Arch Linux
 - macOS High Sierra
-  - With latest Bash and Zsh from Homebrew
+  - Latest Bash and Zsh from Homebrew
 
 ## License
 
