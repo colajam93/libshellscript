@@ -110,7 +110,7 @@ safe_install() {
         local destfile_old=$destfile
         local destfile_new=$destfile.dotnew
         destfile=$destfile_new
-        print_warning "${destfile} saved as ${destfile}.dotnew"
+        print_warning "${destfile_old} saved as ${destfile}"
     fi
 
     install -m $permission $srcfile $destfile
