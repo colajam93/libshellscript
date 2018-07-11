@@ -1,8 +1,8 @@
-# libshellscript
+# mbthbash
 
-[![Build Status](https://travis-ci.org/colajam93/libshellscript.svg?branch=master)](https://travis-ci.org/colajam93/libshellscript)
+[![Build Status](https://travis-ci.org/colajam93/mbthbash.svg?branch=master)](https://travis-ci.org/colajam93/mbthbash)
 
-Miscellaneous shell script library supports Bash and Zsh
+Miscellaneous bash library
 
 ## Tested OS
 

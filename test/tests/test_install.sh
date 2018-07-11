@@ -286,5 +286,5 @@ if ! [[ -f "$script_dir/../shunit2" ]]; then
     exit 1
 fi
 
-source "$script_dir/../../libshellscript/libshellscript.sh"
+source "$script_dir/../../mbth/mbth.sh"
 source "$script_dir/../shunit2"
