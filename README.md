@@ -8,7 +8,7 @@ Miscellaneous bash library
 
 - Arch Linux
 - macOS High Sierra
-  - Latest Bash and Zsh from Homebrew
+  - Latest Bash from Homebrew
 
 ## License
 

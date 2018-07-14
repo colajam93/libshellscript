@@ -6,5 +6,5 @@ if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then
     docker pull colajam93/archlinux
 elif [[ "$TRAVIS_OS_NAME" == "osx" ]]; then
     brew update
-    brew install bash zsh
+    brew install bash
 fi
